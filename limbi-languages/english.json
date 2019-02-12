@@ -228,6 +228,13 @@
 "fonduri_insuficiente":"Ne pare rau, dar se pare ca nu aveti fondurile necesare pentru aceasta plata! Va rugam sa verificati in sectiunea 'Situatie financiara', iar apoi sa reincercati.",
 "achizitionare_log":"Achizitionare:",
 "adaugare_fonduri":"Adaugare fonduri in cont dedicatii.",
+"managerul_financiar":"Manger financiar",
+"magazin_info1":"Daca doriti sa utilizati o metoda diferita fata de cea curenta (PayPal), va rugam sa ne contactati: <a href='https://www.baxandrei.ro/contact/' target='_blank'>Apasa aici pentru a accesa pagina de contact.</a>",
+"fonduri_disponibile":"Fonduri disponibile: %X% &euro;",
+"adaugare_fonduri_text":"Adaugare Fonduri:",
+"adaugare_fonduri_placeholder":"5 &euro;",
+"btn_adaugare_fonduri":"<i class='fa fa-paypal' aria-hidden='true'></i> Adauga",
+
 
 "_RESETARE_PAROLA":"Variabile de limba pentru sistemul de resetare a parolei.",
 "continut_email_resetare1":"Ai primit urmatorul mesaj deoarece ai completat formularul de resetare a parolei pe <a href='%1%/admin/'>Radio %2%</a>.",
